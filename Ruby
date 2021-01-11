@@ -1,0 +1,3 @@
+# this language like an putting some instruction
+say = "Hello World"
+puts say
